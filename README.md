@@ -1,7 +1,6 @@
-# Healthcare Financial & Department Performance Analytics
-
-SQL & Power BI project analysing healthcare departmental revenue, cost, and efficiency.
-ervice lines are located.
+# Healthcare Financial & Department Performance Analytic
+SQL & Power BI project analysing healthcare departmental revenue, cost, and efficiency service lines are located.
+This project transforms raw hospital billing and patient data into a strategic financial tool. The goal is to identify which hospital departments are driving revenue, managing costs effectively, and where the "high-intensity" service lines are located.
 
 # Data Transformation (SQL)
 
