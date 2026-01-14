@@ -32,7 +32,7 @@ Logic: Categorizes departments based on whether their average revenue per patien
 # Dashboard Features & KPI Definitions
 Profit Margin %: Measures efficiency. High margins indicate strong negotiation with payers or excellent cost control.
 
-ROI Multiplier: For every $1 spent on departmental operations, how many dollars are returned in revenue.
+ROI Multiplier: For every R1 spent on departmental operations, how many rands are returned in revenue.
 
 Case Mix Tier: A classification to help administrators understand the clinical intensity of the department's workload.
 
